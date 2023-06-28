@@ -26,7 +26,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=shayanDoroodian&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Shayan-retrocket&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
@@ -39,12 +39,7 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shayan-retrocket&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan-retrocket&theme=vue" />
 </p>
-
-## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
 ---
-
 
 <div align="center">
 

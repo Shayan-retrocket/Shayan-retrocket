@@ -5,12 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanDoroodian&label=Views&color=blue&style=plastic&style=for-the-badge%22%20alt=%22iampawan" alt="iampawan" /> </p>
 
-# 💫 About Me :
-- 🔭 I’m currently building some small project for my own.
-- 🌱 I’m currently learning more about Django and generally Back-End development.
-- 🤔 Pursuing a professional career in a leading computer company.
-- 💬 Ask me about React and CSS or something like that.
-- ⚡ Fun fact: I’m creazy about Boxing🥊 and Motorcycle🏍️.
+
 - 📫 Keep in touch: Check social links below.
   
   Visit my working old as well : https://github.com/ShayanDoroodian
